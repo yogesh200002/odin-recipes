@@ -1,0 +1,36 @@
+.img1{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.list{
+    display: table;
+    margin: 0 auto;
+}
+.button{
+    font-size: larger;
+    background-color: aquamarine;
+    border-radius: 4px;
+    display: table;
+    margin: 0 auto;
+}
+.index{
+    text-align: center;
+    color: yellowgreen;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.index.last{
+    font-size: 200%;
+    font-weight: bold;
+}
+.recipe-title{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
